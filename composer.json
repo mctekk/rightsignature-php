@@ -1,5 +1,5 @@
 {
-    "name": "99designs/rightsignature-php",
+    "name": "mctekk/rightsignature-php",
     "description": "PHP client for RightSignature.com API",
     "keywords": ["rightsignature", "rightsignature.com", "api", "99designs"],
     "license": "MIT",
